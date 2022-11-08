@@ -67,3 +67,7 @@ jobs:
       run: dotnet test -f net6.0 -c Debug
     - name: Test (.NET 6.0/Release)
       run: dotnet test -f net6.0 -c Release
+    - name: Test (.NET 6.0 Mac Catalyst/Debug)
+      run: dotnet test -f net6.0-maccatalyst -c Debug
+    - name: Test (.NET 6.0 Mac Catalyst/Release)
+      run: dotnet test -f net6.0-maccatalyst -c Release

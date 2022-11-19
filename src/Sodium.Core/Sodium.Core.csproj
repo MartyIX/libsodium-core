@@ -20,8 +20,8 @@
 
   <PropertyGroup>
     <Description>libsodium for .net core</Description>
-    <Authors>Adam Caudill, Trond Arne Br&#229;then &#38; Contributors</Authors>
-    <Copyright>&#169; $([System.DateTime]::UtcNow.ToString(yyyy)) Adam Caudill, Trond Arne Br&#229;then &#38; Contributors</Copyright>
+    <Authors>Adam Caudill, Trond Arne Bråthen &amp; Contributors</Authors>
+    <Copyright>© $([System.DateTime]::UtcNow.ToString(yyyy)) Adam Caudill, Trond Arne Bråthen &amp; Contributors</Copyright>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageTags>libsodium</PackageTags>
     <PackageIcon>icon.png</PackageIcon>
